@@ -41,7 +41,7 @@ Panorama do faturamento e do atingimento de metas ao longo do tempo.
 - Faturamento vs Meta por mês, com destaque de meses acima e abaixo da meta
 - Faturamento atual vs ano anterior (análise % por mês)
 - **Comparador de dois períodos distintos** (Período A _versus_ Período B)
-  ![Visão Geral](imagens/Visão Geral.png)
+  ![Visão Geral](imagens/visao_geral.png)
 
 ### 2. Real x Meta: Visão Equipe
 
