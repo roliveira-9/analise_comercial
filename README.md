@@ -41,7 +41,7 @@ Panorama do faturamento e do atingimento de metas ao longo do tempo.
 - Faturamento vs Meta por mês, com destaque de meses acima e abaixo da meta
 - Faturamento atual vs ano anterior (análise % por mês)
 - **Comparador de dois períodos distintos** (Período A _versus_ Período B)
-  ![Visão Geral](images/Visão_Geral.png)
+  ![Visão Geral](imagens/Visão Geral.png)
 
 ### 2. Real x Meta: Visão Equipe
 
@@ -52,7 +52,7 @@ Desempenho da equipe de vendas frente às metas.
 - Ranking de vendedores com meta, faturamento, variação vs meta, **probabilidade de alcançar a meta** e mini-gráfico de performance
 - Filtro: _Todos_, _Bateram a Meta_ e _Não Bateram a Meta_
 - Insight automático de concentração (ex.: participação dos Top 3 vendedores no faturamento)
-  ![Visão Equipe](images/equipe.png)
+  ![Visão Equipe](imagens/equipe.png)
 
 ### 3. Forecast: Visão Equipe
 
@@ -63,7 +63,7 @@ Projeção de faturamento com base no ritmo de vendas.
 - Linha do tempo com Meta, Forecast e Faturamento, marcando a data da última venda
 - Filtros por Gerente, Supervisor e Vendedor, com alternância entre **Mês Atual** e **Ano Atual**
 - Texto dinâmico com a projeção e a meta diária a ser mantida
-  ![Forecast](images/forecast.png)
+  ![Forecast](imagens/forecast.png)
 
 ### 4. Análise de Produtos
 
@@ -72,7 +72,7 @@ Relação entre faturamento e margem por produto.
 - Faturamento e % de margem por produto (todos ou Top 5)
 - Dispersão **Faturamento x Margem %** para identificar produtos de alto volume e baixa margem
 - Painel de **Insights** com sugestões de ação (precificação, segmentação, campanhas, feedback e melhorias)
-  ![Produtos](images/produtos.png)
+  ![Produtos](imagens/produtos.png)
 
 ### 5. Recomendação por Cliente
 
@@ -82,7 +82,7 @@ Motor de recomendação desenvolvido em Python e consumido no Power BI.
 - **Produtos do histórico de compras:** itens recomendados com base no que o cliente já comprou
 - **Produtos dos clientes similares:** itens recomendados com base no perfil de compra de clientes parecidos (com % de similaridade)
 - Tabelas com produto, tamanho, quantidade, última compra e categoria
-  ![Recomendação](images/recomendação.png)
+  ![Recomendação](imagens/recomendação.png)
 
 ---
 
